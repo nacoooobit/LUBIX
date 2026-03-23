@@ -1,6 +1,6 @@
 # 🚀 Lubix - Plataforma de Gestión de Usuarios y Empresas
 
-Lubix es una **plataforma completa** de gestión de usuarios y empresas, con un backend robusto y un frontend moderno y responsivo.
+Lubix es una **plataforma completa** de e-commerce, con un backend robusto y un frontend moderno y responsivo.
 
 ## 📋 Descripción General
 
